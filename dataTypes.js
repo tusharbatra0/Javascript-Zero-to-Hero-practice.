@@ -5,7 +5,7 @@
 // 'language', but don't assign it any value yet
 const country = 'India';
 const continent = 'Asia';
-let population = 1428.62
+let population = 1428.62;
 const isIsland = false;
 const language = ''
 
