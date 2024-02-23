@@ -8,7 +8,6 @@ const neighbours = ['China', 'Pakistan', 'Sri Lanka']
 const newNeighbour = 'Utopia';
 neighbours.push(newNeighbour)
 
-
 // 3. Unfortunately, after some time, the new country is dissolved. So remove it from
 // the end of the array
 neighbours.pop()
